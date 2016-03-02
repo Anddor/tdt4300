@@ -1,0 +1,10 @@
+size;items
+1;beer
+1;bread
+1;diapers
+1;milk
+2;beer,diapers
+2;bread,diapers
+2;bread,milk
+2;diapers,milk
+3;bread,diapers,milk
